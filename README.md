@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vtaetae
 - 👀I'm interested in Full stack web development
-- 🌱Language i know HTML,CSS,JS(intermediate) and currently learning php 
+- 🌱 Languages i know HTML,CSS,JS(intermediate) and currently learning php 
 
 <!---
 Vtaetae/Vtaetae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
